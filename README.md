@@ -16,7 +16,7 @@
 📌  ASAC DE 2기  ·  SK Planet AI 활용 데이터 엔지니어 양성과정
 🔭  Currently    →  VentureScout  (Multi-Agent Startup Due-Diligence Platform)
 🎯  Focus        →  AI Transformation (AX)  ·  Data Engineering  ·  Data Analysis
-🧠  Interests    →  LangGraph  ·  pgvector  ·  Agentic Systems  ·  AutoML
+🧠  Interests    →  LangGraph  ·  pgvector  ·  Agentic Systems  ·  Data Engineering
 ```
 
 ---
