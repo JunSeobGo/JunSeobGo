@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm JunSeob Go
+# 👋 Hi, I'm JunSeop Ko
 
 <br/>
 
