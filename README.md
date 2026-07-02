@@ -17,7 +17,6 @@
 🔭  Currently    →  VentureScout  (Multi-Agent Startup Due-Diligence Platform)
 🎯  Focus        →  AI Transformation (AX)  ·  Data Engineering  ·  Data Analysis
 🧠  Interests    →  LangGraph  ·  pgvector  ·  Agentic Systems  ·  AutoML
-📍  Seoul, South Korea
 ```
 
 ---
