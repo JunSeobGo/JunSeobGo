@@ -4,9 +4,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_ID)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+📧 ko911@hanmail.net
 
 </div>
 
@@ -17,7 +17,7 @@
 ```text
 📌  ASAC DE 2기  ·  SK Planet AI 활용 데이터 엔지니어 양성과정
 🔭  Currently    →  VentureScout  (Multi-Agent Startup Due-Diligence Platform)
-🎯  Focus        →  Data Engineering  ×  AI Transformation (AX)
+🎯  Focus        →  AI Transformation (AX)  ·  Data Engineering  ·  Data Analysis
 🧠  Interests    →  LangGraph  ·  pgvector  ·  Agentic Systems  ·  AutoML
 📍  Seoul, South Korea
 ```
@@ -54,26 +54,7 @@
 ## 📂 Featured Projects
 
 | Project | Description | Stack |
+
 |---------|-------------|-------|
-| [**🔍 VentureScout**](https://github.com/YOUR_USERNAME/ventureScout) | 멀티 에이전트 스타트업 실사 플랫폼. USPTO 특허 겹침 분석으로 FTO 리스크 시그널 자동 생성 | LangGraph · AWS Bedrock · pgvector · FastAPI · Chainlit |
-| [**🏙 Seoul Data Lakehouse**](https://github.com/YOUR_USERNAME/seoul-lakehouse) | 서울시 공공데이터 기반 에이전트 네이티브 데이터 플랫폼 (dbt 메달리온 아키텍처 + 시맨틱 레이어) | Airflow · dbt · Spark · PostgreSQL |
-| [**📡 AirCast**](https://github.com/YOUR_USERNAME/aircast) | 실시간 대기질·기상 모니터링 파이프라인 (AWS 멀티 서비스 기반 스트리밍) | Kinesis · Lambda · S3 · Grafana |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&date_format=Y.n.j" />
-</div>
-
----
-
-<div align="center">
-  <sub>💬 <i>Data Engineering meets Agentic AI — building systems that reason over data, not just move it.</i></sub>
-</div>
+| [**🔍 VentureScout**](https://github.com/de-ai-AIAgentPJ-team4/venturescout) | 멀티 에이전트 스타트업 실사 플랫폼. USPTO 특허 겹침 분석으로 FTO 리스크 시그널 자동 생성 | LangGraph · AWS Bedrock · pgvector · FastAPI · Chainlit |
+| [**🛒 Wadiz 이커머스 데이터 파이프라인**](https://github.com/JunSeobGo/wadiz-ecommerce-data-pipeline) | 크라우드펀딩 플랫폼 풀 ELT 파이프라인 (Bronze → Silver → Gold 메달리온 아키텍처) | Airflow · ECS Fargate · Athena · dbt · Streamlit |
