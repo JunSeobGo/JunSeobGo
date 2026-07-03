@@ -13,10 +13,9 @@
 ## 🙋‍♂️ About Me
 
 ```text
-📌  ASAC DE 2기  ·  SK Planet AI 활용 데이터 엔지니어 양성과정
+📌  ASAC DE 2기  ·  SK Planet AI 활용 데이터 엔지니어 양성과정(6개월 과정)
 🔭  Currently    →  VentureScout  (Multi-Agent Startup Due-Diligence Platform)
 🎯  Focus        →  AI Transformation (AX)  ·  Data Engineering  ·  Data Analysis
-🧠  Interests    →  LangGraph  ·  pgvector  ·  Agentic Systems  ·  Data Engineering
 ```
 
 ---
@@ -51,7 +50,6 @@
 ## 📂 Featured Projects
 
 | Project | Description | Stack |
-
-|---------|-------------|-------|
-| [**🔍 VentureScout**](https://github.com/de-ai-AIAgentPJ-team4/venturescout) | 멀티 에이전트 스타트업 실사 플랫폼. USPTO 특허 겹침 분석으로 FTO 리스크 시그널 자동 생성 | LangGraph · AWS Bedrock · pgvector · FastAPI · Chainlit |
-| [**🛒 Wadiz 이커머스 데이터 파이프라인**](https://github.com/JunSeobGo/wadiz-ecommerce-data-pipeline) | 크라우드펀딩 플랫폼 풀 ELT 파이프라인 (Bronze → Silver → Gold 메달리온 아키텍처) | Airflow · ECS Fargate · Athena · dbt · Streamlit |
+|---|---|---|
+| [🔍 VentureScout](https://github.com/de-ai-AIAgentPJ-team4/venturescout) | 멀티 에이전트 스타트업 실사 플랫폼. USPTO 특허 겹침 분석으로 FTO 리스크 시그널 자동 생성 | LangGraph · AWS Bedrock · pgvector · FastAPI · Chainlit |
+| [🛒 Wadiz 이커머스 데이터 파이프라인](https://github.com/JunSeobGo/wadiz-ecommerce-data-pipeline) | 크라우드펀딩 플랫폼 풀 ELT 파이프라인 (Bronze → Silver → Gold 메달리온 아키텍처) | Airflow · ECS Fargate · Athena · dbt · Streamlit |
