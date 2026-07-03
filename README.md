@@ -48,8 +48,16 @@
 ---
 
 ## 📂 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🔍 VentureScout](https://github.com/de-ai-AIAgentPJ-team4/venturescout) | 멀티 에이전트 스타트업 실사 플랫폼. USPTO 특허 겹침 분석으로 FTO 리스크 시그널 자동 생성 | LangGraph · AWS Bedrock · pgvector · FastAPI · Chainlit |
-| [🛒 Wadiz 이커머스 데이터 파이프라인](https://github.com/JunSeobGo/wadiz-ecommerce-data-pipeline) | 크라우드펀딩 플랫폼 풀 ELT 파이프라인 (Bronze → Silver → Gold 메달리온 아키텍처) | Airflow · ECS Fargate · Athena · dbt · Streamlit |
+<table>
+<tr><th>Project</th><th>Description</th><th>Stack</th></tr>
+<tr>
+<td><a href="https://github.com/de-ai-AIAgentPJ-team4/venturescout">🔍 VentureScout</a></td>
+<td>멀티 에이전트 스타트업 실사 플랫폼. USPTO 특허 겹침 분석으로 FTO 리스크 시그널 자동 생성</td>
+<td>LangGraph · AWS Bedrock · pgvector · FastAPI · Chainlit</td>
+</tr>
+<tr>
+<td><a href="https://github.com/JunSeobGo/wadiz-ecommerce-data-pipeline">🛒 Wadiz 이커머스 데이터 파이프라인</a></td>
+<td>크라우드펀딩 플랫폼 풀 ELT 파이프라인 (Bronze → Silver → Gold 메달리온 아키텍처)</td>
+<td>Airflow · ECS Fargate · Athena · dbt · Streamlit</td>
+</tr>
+</table>
